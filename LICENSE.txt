@@ -1,0 +1,19 @@
+Lazo
+Copyright (c) 2026 G30vamv. Todos los derechos reservados.
+Copyright (c) 2026 G30vamv. All rights reserved.
+
+Este software y sus recursos originales (codigo, graficos, musica y efectos
+generados) son propiedad exclusiva de su autor.
+
+Se concede permiso para descargar el juego desde la pagina oficial de
+releases e instalarlo y jugarlo con fines personales y no comerciales.
+
+Queda prohibido, sin permiso escrito previo del autor:
+  - copiar, redistribuir o publicar el juego o parte de el;
+  - modificarlo, descompilarlo o crear obras derivadas;
+  - venderlo, alquilarlo o usarlo con fines comerciales.
+
+Los componentes de terceros incluidos mantienen sus propias licencias; ver
+THIRD_PARTY_LICENSES.txt.
+
+EL SOFTWARE SE ENTREGA "TAL CUAL", SIN GARANTIA DE NINGUN TIPO.
